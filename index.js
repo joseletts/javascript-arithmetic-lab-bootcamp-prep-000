@@ -8,6 +8,13 @@ function subtract(a, b) {
 function multiply(a, b) {
   return a * b
 }
-function devide(a, b) {
+function divide(a, b) {
   return a / b
 }
+
+function inc(n) {
+  return a + b
+}
+
+
+
